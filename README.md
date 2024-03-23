@@ -1,5 +1,6 @@
 # sway_theme_configure
 ## Sway Beautification Tutorial
+![20240316_15h29m07s_grim](https://github.com/wiwyil2tr/sway_theme_configure/assets/108447154/a039cfc0-faa1-486e-8fac-9c806da22690)
 
 ### Introduction
 
